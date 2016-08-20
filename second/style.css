@@ -1,0 +1,41 @@
+.content {
+	display: flex;
+	flex-direction: row;
+	height: 100vh;
+	width: 100%;
+
+}
+
+.left {
+	height: 100%;
+	width: 33%;
+	background-color: #4a90e2;
+}
+
+.middle {
+	height: 100%;
+	width: 34%;
+	background-color: #50e3c2;
+	
+}
+
+.right{
+	height: 100%;
+	width:33%;
+	
+}
+
+.rightTop {
+	height: 75%;
+	width: 100%;
+	background-color: #b8e986;
+}
+
+.rightBottom {
+	height:25%;
+	width:100%;
+	background-color: #d0021b;
+	text-align: center;
+	color: white;
+	padding-top: 25px;
+}
