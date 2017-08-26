@@ -1,0 +1,34 @@
+header {
+  background: #444444;
+  width: 100%;
+  height: 150px;
+}
+
+.main-container {
+  height: calc(100vh - 150px);
+  width: 100%;
+  display: flex;
+
+}
+
+.sidebar {
+  background: #d8d8d8;
+  height: 100%;
+  width: 20%;
+}
+
+.center-content {
+  background: blue;
+  width: 60%;
+  height: 100%;
+}
+
+.top-section {
+  background: white;
+  height: 80%;
+}
+
+.bottom-section {
+  background: #000000;
+  height: 20%;
+}
